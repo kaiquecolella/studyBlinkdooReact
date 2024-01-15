@@ -5,7 +5,7 @@ function Header () {
     return (
             <nav className='headerNavbar'>
                     <ul>
-                        <li><a href="#">Blinkdoo</a></li>
+                        <li><a className='logoNavbar' href="#">Blinkdoo</a></li>
                     </ul>
                     <ul className='linksNavbar'>
                         <li><a href="#">Início</a></li>

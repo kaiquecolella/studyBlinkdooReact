@@ -9,3 +9,12 @@
     display: flex;
     gap: 1rem;
 }
+.linksNavbar a {
+    font-weight: 500;
+    color: gray;
+}
+.logoNavbar {
+    font-size: 1.5rem;
+    color: #765EFF;
+    font-weight: 500;
+}
